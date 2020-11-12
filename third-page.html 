@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="
+		width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Donation & Contact Information</title>
+		<link href="style.css" rel="stylesheet"> 
+	</head>
+	<body> 
+		<a href="index.html">Welcome to A Page About Dolphins</a>
+		<a href="second-page.html">More Information On Dolphins Continued</a>
+		<h1>Help Save a Dolphin? </h1>
+		<h2>Which is the world's most endangered dolphin?</h2>
+		<img class="transparent dolphins" src="Lab 9 Images/dolphine logo.png" alt="transparent dolphins">
+	</body>
+</html>
